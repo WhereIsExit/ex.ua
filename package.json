@@ -1,11 +1,11 @@
 {
   "name": "ex.ua",
-  "date": "2016.01.29",
-  "version": "2.1.24",
+  "date": "2016.11.24",
+  "version": "2.1.26",
   "description": "STB based application for IPTV-devices. All content from site ex.ua.",
   "author": {
     "name": "BAS",
-    "email": "1990bas@gmail.com"
+    "email": "bas.jsdev@gmail.com"
   },
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   },
   "dependencies": {},
   "config": {
-    "backgroundColor":"#eda944",
-    "icons":"icons"
+    "backgroundColor": "#eda944",
+    "icons": "icons"
   }
 }
